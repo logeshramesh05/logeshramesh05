@@ -82,6 +82,8 @@
 <p align="left">
   <!-- Spring Boot Icon from Icons8 -->
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
+  <img width="40" height="40" alt="spring_boot" src="https://github.com/user-attachments/assets/252570f8-8261-4af8-ac52-c2c6c2aada14" />
+
   <!-- Node.js Icon from Icons8 -->
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
   <!-- Angular Icon from Icons8 -->
