@@ -28,11 +28,12 @@
 
 ## 💼 Professional Experience
 
-### 🧪 **Crossing Hurdles** | *Software Engineer (Remote)*
+###  **Crossing Hurdles** | *Software Engineer (Remote)*
+
 **Jul 2026 – Present**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Crossing_Hurdles-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMzIgMkMxNS40IDIgMiAxNS40IDIgMzJzMTMuNCAzMCAzMCAzMCAzMC0xMy40IDMwLTMwUzQ4LjYgMiAzMiAyem0wIDU2QzE3LjYgNTggNiA0Ni40IDYgMzJTMTcuNiA2IDMyIDZzMjYgMTEuNiAyNiAyNi0xMS42IDI2LTI2IDI2eiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Ik0zMiAxMkMyMSA2IDggMTQgOCAyOHY4YzAgMTQgMTMgMjIgMjQgMTZzMjQtMTQgMjQtMjh2LThDNTYgMTQgNDMgNiAzMiAxMnptMCA0MkMyMSA1MCA4IDQyIDggMjh2LThjMC0xNCAxMy0yMiAyNC0xNnMyNCAxNCAyNCAyOHY4YzAgMTQtMTMgMjItMjQgMTZ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white" alt="Crossing Hurdles" />
+  <img width="150" height="150" alt="crossinghurdles_logo" src="https://github.com/user-attachments/assets/471ff99a-2291-46aa-b785-b9f335aa024f" />
 </p>
 
 > *"Innovation distinguishes between a leader and a follower."*
@@ -46,8 +47,9 @@
 **Feb 2026 – May 2026**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Zoho_Corporation-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiNmZmZmZmYiLz48cGF0aCBkPSJNMzIgMkMxNS40IDIgMiAxNS40IDIgMzJzMTMuNCAzMCAzMCAzMCAzMC0xMy40IDMwLTMwUzQ4LjYgMiAzMiAyeiIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMjAgMjBoMjR2MjRIMjB6IiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIvPjx0ZXh0IHg9IjI4IiB5PSIzOCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjE4IiBmaWxsPSIjMDAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5aPC90ZXh0Pjwvc3ZnPg==&logoColor=white" alt="Zoho Corporation" />
+  <img width="150" height="150" alt="zoho_logo_1" src="https://github.com/user-attachments/assets/f8096d43-fb50-4d53-8007-739c5527b22b" />
 </p>
+
 
 > *"Quality is more important than quantity. One home run is much better than two doubles."*
 
