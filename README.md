@@ -7,7 +7,7 @@ I’m a Software Engineer focused on building scalable backend systems, event-dr
 ## 💼 Professional Experience
 
 ### Software Engineer — Crossing Hurdles
-**Jul 2026 – Present**
+**Aug 2026 – Present**
 
 Working on software engineering tasks involving AI-agent evaluation, terminal-based benchmark environments, Docker, Linux, and automated validation.
 
