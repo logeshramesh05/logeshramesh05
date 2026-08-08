@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend Developer | Java · Distributed Systems
 
-Backend developer focused on scalable, event-driven systems — from high-throughput data generation engines producing **30M+ mock data records** to real-time fraud detection pipelines.
+Backend developer focused on scalable, event-driven systems — from high-throughput data generation engines producing **30M+ mock data records**.
 
 ## 💼 Professional Experience
 
