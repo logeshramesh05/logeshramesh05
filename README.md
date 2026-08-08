@@ -190,9 +190,6 @@
   <b>Show some ❤️ by starring some repositories!</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=logeshramesh05&label=Profile%20views&color=0e75b6&style=flat" alt="logeshramesh05" />
-</p>
 
 ---
 
