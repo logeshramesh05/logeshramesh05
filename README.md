@@ -116,7 +116,7 @@
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
   <!-- Apache Kafka Icon from Icons8 -->
  <!-- Corrected Apache Kafka Icon -->
- <img width="32" height="32" alt="icon-kafka-white-trans" src="https://github.com/user-attachments/assets/d1eb4d90-a477-4f15-a813-3b2d1e8cb9c0" />
+ <img width="48" height="48" alt="icon-kafka-white-trans" src="https://github.com/user-attachments/assets/d1eb4d90-a477-4f15-a813-3b2d1e8cb9c0" />
 
   <!-- Git Icon from Icons8 -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
