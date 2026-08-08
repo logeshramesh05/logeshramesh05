@@ -91,8 +91,7 @@
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"/>
   <!-- React Icon from Icons8 -->
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-  <!-- Express.js Icon from Icons8 -->
-  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="40" height="40"/>
+ 
 </p>
 
 ### 🗄️ Databases & Caching
@@ -117,9 +116,8 @@
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
   <!-- Apache Kafka Icon from Icons8 -->
  <!-- Corrected Apache Kafka Icon -->
- <span style="background-color: white; padding: 4px; border-radius: 4px; display: inline-block;">
-  <img width="40" height="40" src="https://img.icons8.com/material-outlined/24/apache-kafka.png" alt="apache-kafka"/>
- </span>
+ <img width="32" height="32" alt="icon-kafka-white-trans" src="https://github.com/user-attachments/assets/d1eb4d90-a477-4f15-a813-3b2d1e8cb9c0" />
+
   <!-- Git Icon from Icons8 -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <!-- GitHub Icon from Icons8 -->
