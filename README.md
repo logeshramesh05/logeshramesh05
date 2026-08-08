@@ -107,12 +107,16 @@
   <!-- Docker Icon from Icons8 -->
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
   <!-- AWS Icon from Icons8 -->
+  <span style="background-color: white; padding: 4px; border-radius: 4px; display: inline-block;">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  </span>
   <!-- Linux Icon from Icons8 -->
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
   <!-- Apache Kafka Icon from Icons8 -->
  <!-- Corrected Apache Kafka Icon -->
-<img width="40" height="40" src="https://img.icons8.com/material-outlined/24/apache-kafka.png?bg=FFFFFF" alt="apache-kafka"/>
+ <span style="background-color: white; padding: 4px; border-radius: 4px; display: inline-block;">
+  <img width="40" height="40" src="https://img.icons8.com/material-outlined/24/apache-kafka.png" alt="apache-kafka"/>
+ </span>
   <!-- Git Icon from Icons8 -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <!-- GitHub Icon from Icons8 -->
