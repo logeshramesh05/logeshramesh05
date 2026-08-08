@@ -166,32 +166,6 @@
 
 ---
 
-## 💡 Recent Projects
-
-> *"I want to put a ding in the universe."*
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>🤖 AI Agent Benchmark</b><br />
-      Docker-based evaluation framework for AI agents
-    </td>
-    <td align="center">
-      <b>📊 Mock Data Generator</b><br />
-      High-throughput LLM + Faker hybrid generator
-    </td>
-</table>
-
----
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=logeshramesh05&label=Profile%20views&color=0e75b6&style=flat" alt="logeshramesh05" />
-</p>
-
----
-
 ## 🎯 Quotes
 
 > *"The people who are crazy enough to think they can change the world are the ones who do."* - Steve Jobs
