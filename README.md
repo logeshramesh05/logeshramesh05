@@ -49,7 +49,7 @@
 
 ###  **Crossing Hurdles** | *Software Engineer (Remote - APAC)*
 
-**Jul 2026 – Present**
+**Aug 2026 – Present**
 
 <p align="left">
   <img width="150" height="150" alt="crossinghurdles_logo" src="https://github.com/user-attachments/assets/471ff99a-2291-46aa-b785-b9f335aa024f" />
