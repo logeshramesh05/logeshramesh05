@@ -111,7 +111,7 @@
   <!-- Linux Icon from Icons8 -->
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
   <!-- Apache Kafka Icon from Icons8 -->
- <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Apache Kafka" width="40" height="40"/>](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000)
+ [<img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Apache Kafka" width="40" height="40"/>](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000)](https://img.icons8.com/?size=100&id=k4fZIepXxmAZ&format=png&color=000000)
   <!-- Git Icon from Icons8 -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <!-- GitHub Icon from Icons8 -->
