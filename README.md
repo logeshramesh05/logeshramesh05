@@ -1,7 +1,26 @@
 <h1 align="center">Hi 👋, I'm Logesh Ramesh</h1>
 <h3 align="center">Software Engineer @ Crossing Hurdles | Ex-Zoho</h3>
 
-
+<p align="center">
+  <a href="https://linkedin.com/in/logeshramesh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/logeshr_2005" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/logeshramesh05" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/logeshramesh05" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/logeshramesh05" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="mailto:logeshramesh05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 🚀 About Me
@@ -159,33 +178,6 @@
 - 🔬 **Innovation** - *"Innovation is saying no to a thousand things"*
 - 🚀 **Excellence** - *"Be a yardstick of quality"*
 - 💪 **Perseverance** - *"I didn't see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me"*
-
----
-
-## 🤝 Let's Connect
-
-> *"Great things in business are never done by one person. They're done by a team of people."*
-
-<p align="center">
-  <a href="https://linkedin.com/in/logeshramesh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/logeshr_2005" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/logeshramesh05" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/logeshramesh05" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/logeshramesh05" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="mailto:logeshramesh05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
