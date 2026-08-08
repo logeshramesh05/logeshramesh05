@@ -6,25 +6,32 @@ Backend developer focused on scalable, event-driven systems — from high-throug
 
 ## 💼 Professional Experience
 
-<img src="https://www.google.com/s2/favicons?domain=crossinghurdles.com&sz=64" width="22" align="left" style="margin-right:8px"/>
+<table>
+<tr>
+<td width="60"><img src="https://www.google.com/s2/favicons?domain=crossinghurdles.com&sz=64" width="40"/></td>
+<td>
 
-### Software Engineer — Crossing Hurdles
-**Jul 2026 – Present** · Remote
+**Software Engineer — Crossing Hurdles**
+Jul 2026 – Present · Remote
 
 Working on software engineering tasks involving AI-agent evaluation, terminal-based benchmark environments, Docker, Linux, and automated validation.
 
-<br clear="left"/>
+</td>
+</tr>
+<tr>
+<td width="60"><img src="https://www.google.com/s2/favicons?domain=zoho.com&sz=64" width="40"/></td>
+<td>
 
-<img src="https://www.google.com/s2/favicons?domain=zoho.com&sz=64" width="22" align="left" style="margin-right:8px"/>
-
-### Software Engineering Intern — Zoho Corporation
-**Feb 2026 – May 2026** · On-site, Chennai, India
+**Software Engineering Intern — Zoho Corporation**
+Feb 2026 – May 2026 · On-site, Chennai, India
 
 - Designed a hybrid **LLM + Java Faker** data generation engine, generating **30 million+ mock data rows** across Zoho Analytics and ManageEngine Analytics Plus.
 - Engineered high-throughput concurrent processing using **ExecutorService, Semaphore, AtomicLong, and Virtual Threads**, processing **5,000 rows per request** in parallel to power that 30M+ row scale.
 - Built a **5-strategy JSON repair pipeline** and extended the generator to **9 global datacenter regions** with region-specific **OAuth2** credentials and token flows.
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Technical Skills
 
