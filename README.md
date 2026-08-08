@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Logesh Ramesh</h1>
 <h3 align="center">Software Engineer @ Crossing Hurdles | Ex-Zoho Intern</h3>
-<h4 align="center">"Stay hungry, stay foolish." — Steve Jobs</h4>
+<h4 align="center">"Stay hungry, stay foolish."</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=logeshramesh05&label=Profile%20views&color=0e75b6&style=flat" alt="logeshramesh05" />
@@ -15,9 +15,9 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" />
 
-> *"The only way to do great work is to love what you do."* — Steve Jobs
+> *"The only way to do great work is to love what you do."*
 
-🔭 **Currently working on:** AI agent benchmarking in realistic Linux environments using Docker & Harbor
+🔭 **Currently working on:** AI agent benchmarking in realistic Linux environments using Docker & Harbor Framework
 
 🌱 **Learning:** Distributed Systems, Kubernetes, Advanced LLM Evaluation
 
@@ -38,7 +38,7 @@
 ### 🧪 **Crossing Hurdles** | *Software Engineer (Remote)*
 **Jul 2026 – Present**
 
-> *"Innovation distinguishes between a leader and a follower."* — Steve Jobs
+> *"Innovation distinguishes between a leader and a follower."*
 
 - 🔧 Engineered **terminal-based benchmark tasks** for evaluating AI agents in realistic Linux development environments using **Docker** and **Harbor**
 - 📦 Designed and validated isolated task environments with **Dockerfiles**, task configurations, test suites, and reproducible execution workflows
@@ -48,7 +48,7 @@
 ### ⚡ **Zoho Corporation** | *Software Engineering Intern (On-site – Chennai, India)*
 **Feb 2026 – May 2026**
 
-> *"Quality is more important than quantity. One home run is much better than two doubles."* — Steve Jobs
+> *"Quality is more important than quantity. One home run is much better than two doubles."*
 
 - 🧠 Designed a **hybrid LLM + Java Faker** data generation engine to overcome LLM latency/scale limits, generating **30M+ rows** across **Zoho Analytics** and **ManageEngine Analytics Plus** with low latency
 - 🚀 Engineered a **high-throughput concurrent data generation engine** using `ExecutorService`, `Semaphore`, `AtomicLong`, and **Virtual Threads**, processing **5,000 rows per request** in parallel
@@ -58,7 +58,7 @@
 
 ## 🛠️ Tech Stack
 
-> *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+> *"Design is not just what it looks like and feels like. Design is how it works."*
 
 ### 💻 Languages
 <p align="left">
@@ -100,7 +100,7 @@
 
 ## 📊 GitHub Analytics
 
-> *"Sometimes life hits you in the head with a brick. Don't lose faith."* — Steve Jobs
+> *"Sometimes life hits you in the head with a brick. Don't lose faith."*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=logeshramesh05&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="logeshramesh05" width="47%" />
@@ -115,17 +115,24 @@
 
 ## 🏆 Achievements
 
-> *"I'm convinced that about half of what separates successful entrepreneurs from the non-successful ones is pure perseverance."* — Steve Jobs
+> *"I'm convinced that about half of what separates successful entrepreneurs from the non-successful ones is pure perseverance."*
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=logeshramesh05&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="logeshramesh05" />
-</p>
+### 🏅 Smart India Hackathon 2025
+- **National Finalist** – Led backend development for a team that earned recognition among the top 5% of teams nationwide
+- Architected and implemented scalable backend solutions under high-pressure, 36-hour hackathon conditions
+
+### 🏅 IBM Naan Mudhalvan Hackathon
+- **Shortlisted** – Coordinated a team developing a Node.js backend solution
+- Demonstrated strong collaboration and rapid prototyping skills
+
+### 📊 LeetCode
+- **50+ Day Streak Badge** – Solved 50+ coding problems over 74 active days
+- Consistent practice across Data Structures, Algorithms, and System Design
+
 
 ---
 
-## 🎯 Philosophy
 
-> *"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."* — Steve Jobs
 
 ### My Engineering Principles:
 
@@ -139,7 +146,7 @@
 
 ## 🤝 Let's Connect
 
-> *"Great things in business are never done by one person. They're done by a team of people."* — Steve Jobs
+> *"Great things in business are never done by one person. They're done by a team of people."*
 
 <p align="center">
   <a href="https://linkedin.com/in/logeshramesh" target="_blank">
@@ -166,7 +173,7 @@
 
 ## 📈 Activity Graph
 
-> *"The people who are crazy enough to think they can change the world are the ones who do."* — Steve Jobs
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=logeshramesh05&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%" />
@@ -176,7 +183,7 @@
 
 ## 💡 Recent Projects
 
-> *"I want to put a ding in the universe."* — Steve Jobs
+> *"I want to put a ding in the universe."*
 
 <table align="center">
   <tr>
@@ -185,88 +192,25 @@
       Docker-based evaluation framework for AI agents
     </td>
     <td align="center">
-      <b>📊 Data Generator Engine</b><br />
+      <b>📊 Mock Data Generator</b><br />
       High-throughput LLM + Faker hybrid generator
     </td>
-    <td align="center">
-      <b>🔧 JSON Repair Pipeline</b><br />
-      5-strategy recovery system for malformed JSON
-    </td>
-  </tr>
 </table>
 
 ---
 
-## 📝 Latest Blog Posts
 
-> *"Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them."* — Steve Jobs
-
-<p align="center">
-  <i>Coming soon...</i>
-</p>
-
----
-
-## 🎨 Steve Jobs Quote Collection
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-### Daily Inspiration
-
-| Quote | Context |
-|-------|---------|
-| *"Stay hungry, stay foolish."* | The famous Stanford commencement speech |
-| *"Think different."* | Apple's iconic marketing campaign |
-| *"It's not about money. It's about the people you work with, the products you build, and the impact you make."* | On purpose over profit |
-| *"Quality is more important than quantity."* | On excellence in engineering |
-| *"Innovation is the ability to see change as an opportunity - not a threat."* | On embracing change |
-
----
-
-## 🌟 Featured Quotes
-
-> *"Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do."* 
-
-**— Apple's "Think Different" Campaign**
-
----
-
-## 📊 Coding Philosophy
-
-> *"I think if you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what's next."* — Steve Jobs
-
-**My Approach:**
-- 🎯 Build things that matter
-- 🚀 Ship fast, iterate faster
-- 💎 Polish the details
-- 🔄 Never stop learning
-- 🌍 Make a positive impact
-
----
-
-<p align="center">
-  <b>Show some ❤️ by starring some repositories!</b>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=logeshramesh05&label=Profile%20views&color=0e75b6&style=flat" alt="logeshramesh05" />
 </p>
 
-
-## 🎯 Steve Jobs' Principles Applied to Coding
-
-| Principle | Application |
-|-----------|-------------|
-| **Simplicity** | Write clean, maintainable code |
-| **Design** | Create beautiful user experiences |
-| **Innovation** | Solve problems creatively |
-| **Excellence** | Never compromise on quality |
-| **Perseverance** | Keep pushing through challenges |
-| **Passion** | Love what you build |
-| **Impact** | Make a difference |
-
 ---
 
-**Made with ❤️ and 🍎 by Logesh Ramesh**
+## 🎯 Quotes
+
+> *"The people who are crazy enough to think they can change the world are the ones who do."* - Steve Jobs
+
+> *"Knowledge is limited, imagination is everything."* — Albert Einstein
+
+**Made with ❤️ by Logesh Ramesh**
