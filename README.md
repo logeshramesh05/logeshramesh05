@@ -47,7 +47,7 @@
 
 ## 💼 Professional Experience
 
-###  **Crossing Hurdles** | *Software Engineer (Remote)*
+###  **Crossing Hurdles** | *Software Engineer (Remote - APAC)*
 
 **Jul 2026 – Present**
 
@@ -55,7 +55,6 @@
   <img width="150" height="150" alt="crossinghurdles_logo" src="https://github.com/user-attachments/assets/471ff99a-2291-46aa-b785-b9f335aa024f" />
 </p>
 
-> *"Innovation distinguishes between a leader and a follower."*
 
 - 🔧 Engineered **terminal-based benchmark tasks** for evaluating AI agents in realistic Linux development environments using **Docker** and **Harbor**
 - 📦 Designed and validated isolated task environments with **Dockerfiles**, task configurations, test suites, and reproducible execution workflows
@@ -68,9 +67,6 @@
 <p align="left">
   <img width="150" height="150" alt="zoho_logo_1" src="https://github.com/user-attachments/assets/f8096d43-fb50-4d53-8007-739c5527b22b" />
 </p>
-
-
-> *"Quality is more important than quantity. One home run is much better than two doubles."*
 
 - 🧠 Designed a **hybrid LLM + Java Faker** data generation engine to overcome LLM latency/scale limits, generating **30M+ rows** across **Zoho Analytics** and **ManageEngine Analytics Plus** with low latency
 - 🚀 Engineered a **high-throughput concurrent data generation engine** using `ExecutorService`, `Semaphore`, `AtomicLong`, and **Virtual Threads**, processing **5,000 rows per request** in parallel
