@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Logesh Ramesh</h1>
 <h3 align="center">Software Engineer @ Crossing Hurdles | Ex-Zoho</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=logeshramesh05&label=Profile%20views&color=0e75b6&style=flat" alt="logeshramesh05" />
-  <a href="https://twitter.com/logeshr_2005" target="blank">
-    <img src="https://img.shields.io/twitter/follow/logeshr_2005?logo=twitter&style=for-the-badge" alt="logeshr_2005" />
-  </a>
-</p>
 
 ---
 
