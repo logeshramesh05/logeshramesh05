@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" />
 
 > *"The only way to do great work is to love what you do."*
 
