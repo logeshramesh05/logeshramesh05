@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Logesh Ramesh</h1>
 <h3 align="center">Software Engineer @ Crossing Hurdles | Ex-Zoho</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=logeshramesh05&label=Profile%20views&color=0e75b6&style=flat" alt="logeshramesh05" />
+  <a href="https://twitter.com/logeshr_2005" target="blank">
+    <img src="https://img.shields.io/twitter/follow/logeshr_2005?logo=twitter&style=for-the-badge" alt="logeshr_2005" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -30,6 +37,10 @@
 ### 🧪 **Crossing Hurdles** | *Software Engineer (Remote)*
 **Jul 2026 – Present**
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Crossing_Hurdles-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMzIgMkMxNS40IDIgMiAxNS40IDIgMzJzMTMuNCAzMCAzMCAzMCAzMC0xMy40IDMwLTMwUzQ4LjYgMiAzMiAyem0wIDU2QzE3LjYgNTggNiA0Ni40IDYgMzJTMTcuNiA2IDMyIDZzMjYgMTEuNiAyNiAyNi0xMS42IDI2LTI2IDI2eiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Ik0zMiAxMkMyMSA2IDggMTQgOCAyOHY4YzAgMTQgMTMgMjIgMjQgMTZzMjQtMTQgMjQtMjh2LThDNTYgMTQgNDMgNiAzMiAxMnptMCA0MkMyMSA1MCA4IDQyIDggMjh2LThjMC0xNCAxMy0yMiAyNC0xNnMyNCAxNCAyNCAyOHY4YzAgMTQtMTMgMjItMjQgMTZ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white" alt="Crossing Hurdles" />
+</p>
+
 > *"Innovation distinguishes between a leader and a follower."*
 
 - 🔧 Engineered **terminal-based benchmark tasks** for evaluating AI agents in realistic Linux development environments using **Docker** and **Harbor**
@@ -39,6 +50,10 @@
 
 ### ⚡ **Zoho Corporation** | *Software Engineering Intern (On-site – Chennai, India)*
 **Feb 2026 – May 2026**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Zoho_Corporation-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiNmZmZmZmYiLz48cGF0aCBkPSJNMzIgMkMxNS40IDIgMiAxNS40IDIgMzJzMTMuNCAzMCAzMCAzMCAzMC0xMy40IDMwLTMwUzQ4LjYgMiAzMiAyeiIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNMjAgMjBoMjR2MjRIMjB6IiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIvPjx0ZXh0IHg9IjI4IiB5PSIzOCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjE4IiBmaWxsPSIjMDAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5aPC90ZXh0Pjwvc3ZnPg==&logoColor=white" alt="Zoho Corporation" />
+</p>
 
 > *"Quality is more important than quantity. One home run is much better than two doubles."*
 
@@ -106,10 +121,34 @@
 - **50+ Day Streak Badge** – Solved 50+ coding problems over 74 active days
 - Consistent practice across Data Structures, Algorithms, and System Design
 
+---
+
+## 📈 GitHub Analytics
+
+> *"Sometimes life hits you in the head with a brick. Don't lose faith."*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=logeshramesh05&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="logeshramesh05" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=logeshramesh05&show_icons=true&locale=en&hide_border=true&theme=radical" alt="logeshramesh05" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logeshramesh05&hide_border=true&theme=radical" alt="logeshramesh05" width="70%" />
+</p>
 
 ---
 
+## 📈 Activity Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logeshramesh05&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%" />
+</p>
+
+---
+
+## 🎯 Philosophy
+
+> *"Knowledge is limited, imagination is everything."* — Albert Einstein
 
 ### My Engineering Principles:
 
@@ -148,20 +187,22 @@
 
 ---
 
-## 📈 Activity Graph
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logeshramesh05&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%" />
-</p>
-
----
-
 ## 🎯 Quotes
 
 > *"The people who are crazy enough to think they can change the world are the ones who do."* - Steve Jobs
 
 > *"Knowledge is limited, imagination is everything."* — Albert Einstein
+
+---
+
+<p align="center">
+  <b>Show some ❤️ by starring some repositories!</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=logeshramesh05&label=Profile%20views&color=0e75b6&style=flat" alt="logeshramesh05" />
+</p>
+
+---
 
 **Made with ❤️ by Logesh Ramesh**
