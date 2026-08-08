@@ -254,21 +254,6 @@
   <img src="https://komarev.com/ghpvc/?username=logeshramesh05&label=Profile%20views&color=0e75b6&style=flat" alt="logeshramesh05" />
 </p>
 
----
-
-## 📱 Optimized for All Aspect Ratios
-
-### This README is designed to look great on:
-
-| Device | Aspect Ratio | Features |
-|--------|-------------|----------|
-| **Desktop** | 16:9, 16:10 | Full layout with all sections |
-| **Laptop** | 16:10, 3:2 | Balanced spacing, responsive |
-| **Tablet** | 4:3, 16:10 | Stacked sections, readable |
-| **Mobile** | 9:16, 20:9 | Single column, centered |
-| **Ultrawide** | 21:9 | Centered content, comfortable |
-
----
 
 ## 🎯 Steve Jobs' Principles Applied to Coding
 
@@ -281,12 +266,6 @@
 | **Perseverance** | Keep pushing through challenges |
 | **Passion** | Love what you build |
 | **Impact** | Make a difference |
-
----
-
-> *"Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition."* 
-
-**— Steve Jobs, Stanford Commencement Address, 2005**
 
 ---
 
