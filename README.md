@@ -186,11 +186,4 @@
 
 ---
 
-<p align="center">
-  <b>Show some ❤️ by starring some repositories!</b>
-</p>
-
-
----
-
 **Made with ❤️ by Logesh Ramesh**
