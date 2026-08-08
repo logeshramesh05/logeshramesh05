@@ -152,10 +152,6 @@
 
 ---
 
-## 🎯 Philosophy
-
-> *"Knowledge is limited, imagination is everything."* — Albert Einstein
-
 ### My Engineering Principles:
 
 - 💡 **Simplicity** - *"Simple can be harder than complex... but it's worth it"*
