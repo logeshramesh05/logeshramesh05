@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logesh Ramesh</h1>
-<h3 align="center">Software Engineer @ Crossing Hurdles | Ex-Zoho Intern</h3>
+<h3 align="center">Software Engineer @ Crossing Hurdles | Ex-Zoho</h3>
 
 ---
 
