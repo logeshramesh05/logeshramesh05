@@ -98,21 +98,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-> *"Sometimes life hits you in the head with a brick. Don't lose faith."*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=logeshramesh05&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="logeshramesh05" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=logeshramesh05&show_icons=true&locale=en&hide_border=true&theme=radical" alt="logeshramesh05" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logeshramesh05&hide_border=true&theme=radical" alt="logeshramesh05" width="70%" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 > *"I'm convinced that about half of what separates successful entrepreneurs from the non-successful ones is pure perseverance."*
