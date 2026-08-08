@@ -112,7 +112,7 @@
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
   <!-- Apache Kafka Icon from Icons8 -->
  <!-- Corrected Apache Kafka Icon -->
- <img src="https://kafka.apache.org/images/logo.png" alt="Apache Kafka" width="40" height="40"/>
+<img width="40" height="40" src="https://img.icons8.com/material-outlined/24/apache-kafka.png" alt="apache-kafka"/>
   <!-- Git Icon from Icons8 -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <!-- GitHub Icon from Icons8 -->
